@@ -1,4 +1,4 @@
-A mirror for tinyhttpd(Tinyhttpd非官方镜像,Fork自[sourceForge](https://sourceforge.net/projects/tiny-httpd/)，仅作为简历项目)
+A mirror for tinyhttpd(Tinyhttpd非官方镜像,Fork自[sourceForge](https://sourceforge.net/projects/tiny-httpd/)，仅作为简历项目用于求职。)
 
 测试CGI时需要本机安装PERL，同时安装perl-cgi
 
