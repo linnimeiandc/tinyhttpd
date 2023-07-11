@@ -108,7 +108,7 @@ void accept_request(void *arg)
         }
     }
 
-    sprintf(path, "htdocs%s", url);
+    sprintf(path, "./htdocs%s", url);
     if (path[strlen(path) - 1] == '/')
         strcat(path, "index.html");
     if (stat(path, &st) == -1) {
